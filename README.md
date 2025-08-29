@@ -1,7 +1,7 @@
 # DEBIX SOM C i.MX 91 Core Board
 <br>
 <p align="center">
-<img  width=60% height=auto src="./DEBIX_SOM_C_1.png" alt="DEBIX_SOM_C_1">
+<img  width=60% height=auto src="./Media_Assets/DEBIX_SOM_C_1.png" alt="DEBIX_SOM_C_1">
 </p>
 
 ## Overview
@@ -14,7 +14,7 @@ DEBIX SOM C is a  cost-optimized  System-on-Module  based on  the  NXP  i.MX 91 
 
 <br>
 <p align="center">
-<img  width=100% height=auto src="./DEBIX_SOM_C_2.png" alt="DEBIX_SOM_C_2">
+<img  width=100% height=auto src="./Media_Assets/DEBIX_SOM_C_2.png" alt="DEBIX_SOM_C_2">
 </p>
 <br>
 
@@ -87,8 +87,6 @@ CE | FCC | UKCA | RoHS | C-Tick | PSE
 - Place on a stable, flat, non-conductive surface and avoid contact with conductive items.
 
 **Connections:**
-- Only connect compatible devices to the GPIO ports to avoid damage and warranty
-voiding.
 - Use peripherals that comply with relevant standards for the country of use and ensure proper insulation and operation.
 
 **Additional notes:**
@@ -98,7 +96,7 @@ professional.
 
 ## Contact Us
 - **Headquarters**: DEBIX Technology Inc., 8345 Gold River Ct., Las Vegas, NV 89113, USA  
-- **Factory**: 5-6/F., East Zone, Shunheda A2 Building, Liqxiandong Industrial Park, XiLi, Nanshan Dist., Shenzhen, China  <img src="./Media_Assets/Discord/Discord_QRcode.png" alt="Discord_QRcode" width=15% height=auto align="right">
+- **Factory**: 5-6/F., East Zone, Shunheda A2 Building, Liqxiandong Industrial Park, XiLi, Nanshan Dist., Shenzhen, China  <img src="./Media_Assets/Discord_QRcode.png" alt="Discord_QRcode" width=15% height=auto align="right">
 - **Email**: info@debix.io  
 - **Website**: [www.debix.io](https://www.debix.io)  
 - **Community**: [Discord](https://discord.com/invite/adaHHaDkH2)
