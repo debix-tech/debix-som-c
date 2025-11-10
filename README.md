@@ -23,7 +23,7 @@ DEBIX SOM C is a  cost-optimized  System-on-Module  based on  the  NXP  i.MX 91 
 | **System**       |             |
 |------------------|-------------|
 | CPU              | NXP i.MX 9131, 1 x Cortex-A55 @1.4GHz. The maximum power consumption is 1.24W<br>(i.MX 91 series CPU optional) |
-| Memory           | 1GB LPDDR4 (2GB optional) |
+| Memory           | 1GB LPDDR4X (2GB optional) |
 | Storage          | Onboard 8GB eMMC (16GB/32GB/64GB/128GB/256GB optional) |
 | OS               | Yocto, Zephyr |
 | **I/O Interfaces** |             |
@@ -55,7 +55,7 @@ CE | FCC | UKCA | RoHS | C-Tick | PSE
 
 
 ## Ordering Codes
-| RAM LPDDR4 | eMMC Storage | PN (-20°C~70°C) | PN (-40°C~85°C) |
+| RAM LPDDR4X | eMMC Storage | PN (-20°C~70°C) | PN (-40°C~85°C) |
 |------------|--------------|-----------------|-----------------|
 | **1GB DDR**| 8GB          | SOM C-D1E8      | SOM C-I-D1E8    |
 |            | 16GB         | SOM C-D1E16     | SOM C-I-D1E16   |
