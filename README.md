@@ -41,7 +41,7 @@ DEBIX SOM C is a  cost-optimized  System-on-Module  based on  the  NXP  i.MX 91 
 | **Power Supply** |             |
 | Power Input      | DC 3.5V~5V/1A |
 | **Operating Temperature** | |
-| Temp. Range      | -40°C~85°C for default, -20°C~70°C optional |
+| Temp. Range      | -40°C\~85°C for default, -20°C\~70°C optional |
 | **Mechanical & Environmental** | |
 | Connector        | 4 x 2*40pin/0.5mm pitch board-to-board connector (PN:BB51024A-R80-10-32), matching sockets of various heights |
 | Dimension        | 60mm(L) x 40mm(W) x 5.6mm(H) (±0.5mm) |
@@ -51,7 +51,7 @@ DEBIX SOM C is a  cost-optimized  System-on-Module  based on  the  NXP  i.MX 91 
 
 ## Product Compliance and Safety
 CE | FCC | UKCA | RoHS | C-Tick | PSE  
-*For more information see [the Certificates in the DEBIX Knowledge Center](https://debix.io/Document/certificates.html)*  
+*For more information, please visit [our official website](https://debix.io/product/debix-som-c/)*  
 
 
 ## Ordering Codes
